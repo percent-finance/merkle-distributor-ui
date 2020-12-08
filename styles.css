@@ -1,6 +1,4 @@
 body {
-  background-color: #198ad6;
-  color: #fff;
   font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -32,17 +30,16 @@ body {
 a {
   font-size: 20px;
   margin-bottom: 5px;
-  color: #fff;
 }
 
 .header {
-  font-size: 106px;
+  font-size: 66px;
   font-weight: bold;
 }
 
 .logo {
   margin: 32px;
-  width: 400px;
+  width: 200px;
 }
 
 .entitled {
@@ -50,8 +47,7 @@ a {
 }
 
 #claimText {
-  color: rgb(85, 255, 255);
-  font-size: 63px;
+  font-size: 33px;
   margin-bottom: 32px;
 }
 
